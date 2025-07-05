@@ -1,2 +1,2 @@
 To run the file 
-uvicorn main:app --reload
+ cmd : uvicorn main:app --reload
